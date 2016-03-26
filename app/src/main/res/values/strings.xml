@@ -3,6 +3,6 @@
     <string name="title_main">สมุนไพร บ้านๆ</string>
     <string name="user">user</string>
     <string name="pass">password</string>
-    <string name="singin"></string>
-
+    <string name="singin">Login</string>
+    <string name="Singup">สมัครสมาชิก</string>
 </resources>
